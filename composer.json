@@ -1,0 +1,22 @@
+{
+    "name": "loren/hash-gen",
+    "description": "Project to create an Hashtag phrase",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^11.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Loren\\Hashgen\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lorenzo91347",
+            "email": "lorenzo.losito91@gmail.com"
+        }
+    ]
+}
